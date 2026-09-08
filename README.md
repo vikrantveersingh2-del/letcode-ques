@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -24,4 +25,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
