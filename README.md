@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
@@ -41,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0118-pascals-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
