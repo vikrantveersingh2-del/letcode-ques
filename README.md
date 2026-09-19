@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
