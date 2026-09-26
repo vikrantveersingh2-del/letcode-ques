@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0229-majority-element-ii](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0540-single-element-in-a-sorted-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Quicksort
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/vikrantveersingh2-del/letcode-ques/tree/master/0704-binary-search) |
